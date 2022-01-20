@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Estudando React.js, Node.js, TypeScript e PHP.
+- 🌱 Estudando React.js, Node.js, TypeScript e Python.
 - 📫 Contacte-me com o email: santosak1999@gmail.com
 
 <div align="center">
