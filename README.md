@@ -1,7 +1,8 @@
-### Hi there 👋
+### Olá, eu sou a Ana Karolina 👋
 
-- 🌱 Estudando React.js, Node.js, TypeScript e Python.
-- 📫 Contacte-me com o email: santosak1999@gmail.com
+- 🌱 Estudando React.js, Node.js, TypeScript e Java.
+- 📫 Contato com o email: santosak1999@gmail.com
+- 💼 Meu perfil no linkedIn: https://www.linkedin.com/in/kasvrol/
 
 <div align="center">
   <a href="https://github.com/kasvrol">
