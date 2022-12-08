@@ -12,21 +12,19 @@
 </a>
 </div>
 
-<div align="left">
   <p>Meus trabalhos pessoais (em maioria) estão sinalizados com o icon:</p>
-  <img height="auto" width="50%" src="https://github.com/kasvrol/kasvrol/blob/main/image/icon.png"/>
+  <img height="auto" width="70em" src="https://github.com/kasvrol/kasvrol/blob/main/image/icon.png"/>
   </div>
-  <div align="right" height="auto" width="20vw">
-  <p>const kasvrol = {</p>
-    <p>nome: ana karolina,</p>
-      <p>idade: 23,</p>
-      <p>linguagens: [javascript, typescript, java 😭],</p>
-      <p>stacks: [react, node, next, electron],</p>
-      <p>senioridade: junior</p>
-      <p>empresa: Grupo ABL,</p>
-        <p>}</p>
-  </div>
-  </div>
+  
+  ```bash
+ const kasvrol = { nome:        "Ana Karolina",
+                   idade:         23
+                   empresa:      "Grupo ABL".
+                   cidade:       "Curitiba, BR"
+                   liguagens:    ["javascript", "typescript", "java 😭"]
+                   stacks:       ["react", "node", "next", "electron"]}
+```
+  
 
 <div align="center" display="flex">
   <a href="https://github.com/kasvrol">
