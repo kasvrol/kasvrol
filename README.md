@@ -1,11 +1,31 @@
-### Olá, eu sou a Ana Karolina 👋
+<h3>Olá, eu sou a Ana Karolina (kasvrol)</h3>👋
 
-- 🌱 Estudando React.js, Node.js, TypeScript e Java.
-- 📫 Contato com o email: santosak1999@gmail.com
-- 💼 Meu perfil no linkedIn: https://www.linkedin.com/in/kasvrol/
-<div align="right">
-  <p>Meus trabalhos pessoais web estão sinalizados com o icon:</p>
-  <img height="170em" src="https://github.com/kasvrol/kasvrol/blob/main/icon.png"/>
+-   🌱 Estudante de Análise e Desenvolvimento de Sistemas na UFPR.
+
+<h3>Contato:</h3>
+<div align="center" display="flex">
+<a href="https://www.linkedin.com/in/kasvrol/">
+<img height="20vw" width="20vw" src="https://github.com/kasvrol/kasvrol/blob/main/image/linkedin.png"/>
+</a>
+<a href="santosak1999@gmail.com">
+<img height="20vw"  width="20vw" src="https://github.com/kasvrol/kasvrol/blob/main/image/gmail.png"/>
+</a>
+</div>
+
+<div align="left">
+  <p>Meus trabalhos pessoais (em maioria) estão sinalizados com o icon:</p>
+  <img height="auto" width="50%" src="https://github.com/kasvrol/kasvrol/blob/main/image/icon.png"/>
+  </div>
+  <div align="right" height="auto" width="20vw">
+  <p>const kasvrol = {</p>
+    <p>nome: ana karolina,</p>
+      <p>idade: 23,</p>
+      <p>linguagens: [javascript, typescript, java 😭],</p>
+      <p>stacks: [react, node, next, electron],</p>
+      <p>senioridade: junior</p>
+      <p>empresa: Grupo ABL,</p>
+        <p>}</p>
+  </div>
   </div>
 
 <div align="center" display="flex">
@@ -13,15 +33,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasvrol&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Karol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Karol-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Karol-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Karol-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Karol-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Karol-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Karol-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-</div>
 
-  
+<h3>Frequência do meu estudo pessoal</h3>
+
 ![Snake animation](https://github.com/kasvrol/kasvrol/blob/output/github-contribution-grid-snake.svg)
