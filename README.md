@@ -1,14 +1,14 @@
-<h3>Olá, eu sou a Ana Karolina (kasvrol)</h3>👋
+<h4>Olá, eu sou a Ana Karolina (kasvrol) 👋</h4>
 
--   🌱 Estudante de Análise e Desenvolvimento de Sistemas na UFPR.
+🌱 Estudante de Análise e Desenvolvimento de Sistemas na UFPR.
 
-<h3>Contato:</h3>
-<div align="center" display="flex">
+<h4>Contato:</h4>
+<div align="left" display="flex">
 <a href="https://www.linkedin.com/in/kasvrol/">
-<img height="20vw" width="20vw" src="https://github.com/kasvrol/kasvrol/blob/main/image/linkedin.png"/>
+<img height="40em" width="40em" src="https://github.com/kasvrol/kasvrol/blob/main/image/linkedin.png"/>
 </a>
 <a href="santosak1999@gmail.com">
-<img height="20vw"  width="20vw" src="https://github.com/kasvrol/kasvrol/blob/main/image/gmail.png"/>
+<img height="40em"  width="40em" src="https://github.com/kasvrol/kasvrol/blob/main/image/gmail.png"/>
 </a>
 </div>
 
