@@ -28,9 +28,8 @@
 
 <h4>Code Stats:</h4>
 <div align="center" display="flex">
-  <a href="https://github.com/kasvrol">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasvrol&layout=compact&langs_count=7&theme=dark"/>
-  </a>
+  <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kasvrol&theme=nord_dark"/
 </div>
 
 <hr size=".5" style="border:1px;">
