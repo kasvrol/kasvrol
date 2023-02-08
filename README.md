@@ -2,14 +2,10 @@
 <br/>  
 <p>🌱 Estudante de Análise e Desenvolvimento de Sistemas na UFPR.</p>
  <br/>   
-<img src="https://github.com/kasvrol/kasvrol/blob/main/image/icon.png"
-     alt="Marca pessoal em meus estudos"
-     height="280px"
-     align="left" />
-     
+ 
 ```bash
  const kasvrol = { nome:        "Ana Karolina",
-                   idade:         23,
+                   idade:         24,
                    empresa:      "Grupo ABL",
                    cidade:       "Curitiba, BR"
                    liguagens:    ["javascript",
