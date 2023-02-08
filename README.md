@@ -11,9 +11,8 @@
                    liguagens:    ["javascript",
                                   "typescript", 
                                   "java 😭"],
-                   stacks:       ["react", "node", 
+                   frameworks:       ["react", "node", 
                                   "next", "electron"],
-                   senioridade:   "junior"
                  }
                   
 ```
