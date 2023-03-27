@@ -11,9 +11,12 @@
                    liguagens:    ["javascript",
                                   "typescript", 
                                   "java 😭"],
-                   ferramentas:       ["react", "node", 
-                                  "next", "electron", "nest", 
-                                  "mongodb", "sqlServer"],
+                   ferramentas:  ["react", "node", "next", 
+                                  "electron", "nest", "mongodb", 
+                                  "sqlServer"],
+                   interesses:   ["matemática", "física", "folk",
+                                  "automação", "software livre"
+                                  "existencialismo", "prática de atividade física"]
                  }
                   
 ```
