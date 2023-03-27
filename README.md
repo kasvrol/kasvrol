@@ -7,16 +7,17 @@
  const kasvrol = { nome:        "Ana Karolina",
                    idade:         24,
                    empresa:      "Grupo ABL",
+                   cargo:        "web fullstack"
+                   senioridade:  "junior"
                    cidade:       "Curitiba, BR"
-                   liguagens:    ["javascript",
-                                  "typescript", 
-                                  "java 😭"],
+                   liguagens:    ["javascript", "typescript"],
                    ferramentas:  ["react", "node", "next", 
                                   "electron", "nest", "mongodb", 
                                   "sqlServer"],
                    interesses:   ["matemática", "física", "folk",
-                                  "automação", "software livre"
-                                  "existencialismo", "prática de atividade física"]
+                                  "automação", "software livre",
+                                  "existencialismo", 
+                                  "prática de atividade física"]
                  }
                   
 ```
