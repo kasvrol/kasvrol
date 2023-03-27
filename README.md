@@ -11,8 +11,9 @@
                    liguagens:    ["javascript",
                                   "typescript", 
                                   "java 😭"],
-                   frameworks:       ["react", "node", 
-                                  "next", "electron"],
+                   ferramentas:       ["react", "node", 
+                                  "next", "electron", "nest", 
+                                  "mongodb", "sqlServer"],
                  }
                   
 ```
