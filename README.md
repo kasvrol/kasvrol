@@ -16,7 +16,6 @@
                                   "sqlServer"],
                    interesses:   ["matemática", "física", "folk",
                                   "automação", "software livre",
-                                  "existencialismo", 
                                   "prática de atividade física"]
                  }
                   
