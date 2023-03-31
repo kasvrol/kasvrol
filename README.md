@@ -1,8 +1,8 @@
 ## Opa! Eu sou a Ana Karolina (kasvrol) 🤠
 
 <br/>
-<div style="display:flex">
-<div width="250em">
+<div display="flex">
+<div width="200em">
 <p>🌱 Estudante de Análise e Desenvolvimento de Sistemas na UFPR.</p>
 <p>🎯 Constantemente estudando para acompanhar as tendências da indústria e atualizar-me as tecnologias que possam melhorar a eficiência do processo de desenvolvimento.</p>
 <p>📚 Tenho grande interesse e curiosidade pela complexidade e potencial da área de redes e IoT.</p>
