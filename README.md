@@ -2,7 +2,7 @@
 
 <br/>
 <div style="display:flex">
-<div style="width:200em; margin-right:2em">
+<div width="250em">
 <p>🌱 Estudante de Análise e Desenvolvimento de Sistemas na UFPR.</p>
 <p>🎯 Constantemente estudando para acompanhar as tendências da indústria e atualizar-me as tecnologias que possam melhorar a eficiência do processo de desenvolvimento.</p>
 <p>📚 Tenho grande interesse e curiosidade pela complexidade e potencial da área de redes e IoT.</p>
