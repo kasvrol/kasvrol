@@ -1,25 +1,22 @@
 ## Opa! Eu sou a Ana Karolina (kasvrol) 🤠
 
-<br/>
-<div display="flex">
-<div width="200em">
-<p>🌱 Estudante de Análise e Desenvolvimento de Sistemas na UFPR.</p>
-<p>🎯 Constantemente estudando para acompanhar as tendências da indústria e atualizar-me as tecnologias que possam melhorar a eficiência do processo de desenvolvimento.</p>
-<p>📚 Tenho grande interesse e curiosidade pela complexidade e potencial da área de redes e IoT.</p>
-<p>🥁 Paixão por assuntos relacionados à física e matemática, entusiasta a natação e ouvinte de folk 🤿</p>
-
-**📩 Contato:**
-
-<p align="center" ><a href="https://www.linkedin.com/in/kasvrol/">
-<img src="https://github.com/kasvrol/kasvrol/blob/main/image/linkedin.png" height="40em" width="40em"/>
-</a>
-<a href="santosak1999@gmail.com">
-<img src="https://github.com/kasvrol/kasvrol/blob/main/image/gmail.png" height="40em" width="40em"/>
-</a>
-</p>
+<div display="flex"> 
+   <img style="width:250px;" align="right" src="./image/kasvrolIcon.png"/>
+  <div style="width:150px;">
+    <p>🌱 Estudante de Análise e Desenvolvimento de Sistemas na UFPR.</p>
+    <p>🎯 Constantemente estudando para acompanhar as tendências da indústria e atualizar-me as tecnologias que possam melhorar a eficiência do processo de desenvolvimento.</p>
+    <p>📚 Tenho grande interesse e curiosidade pela complexidade e potencial da área de redes e IoT.</p>
+    <p>🥁 Paixão por assuntos relacionados à física e matemática, entusiasta a natação e ouvinte de folk 🤿</p>
+    <p>
+      <a href="https://www.linkedin.com/in/kasvrol/">
+       <img src="https://github.com/kasvrol/kasvrol/blob/main/image/linkedin.png" height="30em" width="30em"/>
+     </a>
+     <a href="santosak1999@gmail.com">
+        <img src="https://github.com/kasvrol/kasvrol/blob/main/image/gmail.png" height="30em" width="30em"/>
+     </a>
+    </p>
+   </div>
 </div>
-  <img width="250em" height="250em"src="./image/kasvrolIcon.png"/>
-  </div>
 
 <hr size=".5" style="border:1px;">
 
