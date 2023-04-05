@@ -6,7 +6,7 @@
     <p>🌱 Estudante de Análise e Desenvolvimento de Sistemas na UFPR.</p>
     <p>🎯 Constantemente estudando para acompanhar as tendências da indústria e atualizar-me as tecnologias que possam melhorar a eficiência do processo de desenvolvimento.</p>
     <p>📚 Tenho grande interesse e curiosidade pela complexidade e potencial da área de redes e IoT.</p>
-    <p>🥁 Paixão por assuntos relacionados à física e matemática, entusiasta a natação e ouvinte de folk 🤿</p>
+    <p>🤿 Atraída por assuntos relacionados à física e matemática, entusiasta a natação e aficionada por folk.</p>
     <p>
       <a href="https://www.linkedin.com/in/kasvrol/">
        <img src="https://github.com/kasvrol/kasvrol/blob/main/image/linkedin.png" height="30em" width="30em"/>
