@@ -23,6 +23,5 @@
 <h4>⏳ Code Stats:</h4>
 <div align="center" display="flex">
   <img  height="200em" src="https://github-readme-activity-graph.cyclic.app/graph?username=kasvrol&bg_color=000000&color=00f428&line=00f4f5&point=fe0ff0&area=true&hide_border=true"/>
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=kasvrol&theme=neon&locale=pt_BR&date_format=j%20M%5B%20Y%5D" />
     <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasvrol&hide=html,css&theme=highcontrast"/>
 </div>
