@@ -18,10 +18,26 @@
    </div>
 </div>
 
-<hr size=".5" style="border:1px;">
+<hr style="border:1px;">
+
+<h4>📚 UFPR:</h4>
+<ul>
+   <li>
+      <a href="https://github.com/kasvrol/codigo-shell-para-backup-em-maquina-linux">
+         Código shell para backup em maquina linux
+      </a>
+   </li>
+   <li>
+      <a href="https://github.com/kasvrol/jogo-de-digitacao-dev-web-ufpr">
+         Jogo de digitação
+      </a>
+   </li>
+</ul>
+
+<hr style="border:1px;">
 
 <h4>⏳ Code Stats:</h4>
-<div align="center" display="flex">
-  <img  height="200em" src="https://github-readme-activity-graph.cyclic.app/graph?username=kasvrol&bg_color=000000&color=00f428&line=00f4f5&point=fe0ff0&area=true&hide_border=true"/>
-    <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasvrol&hide=html,css&theme=highcontrast"/>
-</div>
+
+   <div display="flex" align="center">
+    <img width="300rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasvrol&hide=html,css&layout=compact&theme=highcontrast"/>
+   </div>
