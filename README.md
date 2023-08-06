@@ -20,22 +20,6 @@
 
 <hr style="border:1px;">
 
-<h4>📚 UFPR:</h4>
-<ul>
-   <li>
-      <a href="https://github.com/kasvrol/codigo-shell-para-backup-em-maquina-linux">
-         Código shell para backup em maquina linux
-      </a>
-   </li>
-   <li>
-      <a href="https://github.com/kasvrol/jogo-de-digitacao-dev-web-ufpr">
-         Jogo de digitação
-      </a>
-   </li>
-</ul>
-
-<hr style="border:1px;">
-
 <h4>⏳ Code Stats:</h4>
 
    <div display="flex" align="center">
