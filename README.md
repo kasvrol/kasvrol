@@ -8,13 +8,13 @@
     <p>📚 Tenho grande interesse e curiosidade pela complexidade e potencial da área de redes e IoT.</p>
     <p>🤿 Atraída por assuntos relacionados à física e matemática, entusiasta a natação e aficionada por folk.</p>
     <p>
-      <a href="https://www.linkedin.com/in/kasvrol/">
+      <a href="https://www.linkedin.com/in/kasvrol/" style="margin-right:10px;" >
        <img src="https://github.com/kasvrol/kasvrol/blob/main/image/linkedin.png" height="30em" width="30em"/>
      </a>
-     <a href="santosak1999@gmail.com">
+     <a href="santosak1999@gmail.com" style="margin-right:10px;" >
         <img src="https://github.com/kasvrol/kasvrol/blob/main/image/gmail.png" height="30em" width="30em"/>
      </a>
-     <a href="https://gitlab.com/kasvrol">
+     <a href="https://gitlab.com/kasvrol" style="margin-right:10px;" >
         <img src="https://github.com/kasvrol/kasvrol/blob/main/image/fox.png" height="30em" width="30em"/>
      </a>
     </p>
