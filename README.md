@@ -14,6 +14,9 @@
      <a href="santosak1999@gmail.com">
         <img src="https://github.com/kasvrol/kasvrol/blob/main/image/gmail.png" height="30em" width="30em"/>
      </a>
+     <a href="https://gitlab.com/kasvrol">
+        <img src="https://github.com/kasvrol/kasvrol/blob/main/image/fox.png" height="30em" width="30em"/>
+     </a>
     </p>
    </div>
 </div>
