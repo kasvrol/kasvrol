@@ -19,11 +19,3 @@
        </section>
    </div>
 </div>
-
-<hr style="border:1px;">
-
-<h4>⏳ Code Stats:</h4>
-
-   <div display="flex" align="center">
-    <img width="300rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasvrol&hide=html,css&layout=compact&theme=highcontrast"/>
-   </div>
