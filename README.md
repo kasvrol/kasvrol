@@ -3,9 +3,8 @@
 <div> 
    <img style="width:250px;" align="right" src="./image/kasvrolIcon.png"/>
   <div style="width:150px;">
-    <p>🌱 Estudante de Análise e Desenvolvimento de Sistemas na UFPR.</p>
-    <p>🎯 Constantemente estudando para acompanhar as tendências da indústria e atualizar-me as tecnologias que possam melhorar a eficiência do processo de desenvolvimento.</p>
-    <p>📚 Tenho grande interesse na área web, focando no backend.</p>
+    <p>🌱 Formada em Análise e Desenvolvimento de Sistemas na UFPR.</p>
+    <p>📚 Interessada em IA aplicada e computação quântica.</p>
     <p>🤿 Atraída por assuntos relacionados à física e matemática, entusiasta a natação e aficionada por folk.</p>
        <section>
          <a href="https://www.linkedin.com/in/kasvrol/">
