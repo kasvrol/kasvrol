@@ -4,6 +4,7 @@
    <img style="width:250px;" align="right" src="./image/kasvrolIcon.png"/>
   <div style="width:150px;">
     <p>🌱 Formada em Análise e Desenvolvimento de Sistemas na UFPR.</p>
+    <p>💻 Ultimamente trabalhando com: Typescript - React e Python - FastAPI.</p>
     <p>📚 Interessada em IA aplicada e computação quântica.</p>
     <p>🤿 Atraída por assuntos relacionados à física e matemática, entusiasta a natação e aficionada por folk.</p>
        <section>
